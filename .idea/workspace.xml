@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="623ef88f-5a9f-46d8-b19a-7632366f6d74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1opVlS6U0Ik4urjSL2ffAHD0lpL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/example-app" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\koko\PhpstormProjects\12.TypeScript\Starter-pack\public" />
+      <recent name="C:\Users\koko\PhpstormProjects\12.TypeScript\Starter-pack\src" />
+      <recent name="C:\Users\koko\PhpstormProjects\12.TypeScript\Starter-pack" />
+      <recent name="C:\Users\koko\PhpstormProjects\12.TypeScript" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="623ef88f-5a9f-46d8-b19a-7632366f6d74" name="Default Changelist" comment="" />
+      <created>1613983670138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613983670138</updated>
+      <workItem from="1613983671356" duration="1261000" />
+      <workItem from="1614001100900" duration="2888000" />
+      <workItem from="1614007468669" duration="594000" />
+      <workItem from="1614008076861" duration="13078000" />
+      <workItem from="1614163367460" duration="376000" />
+      <workItem from="1614173412469" duration="2422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Starter-pack/src/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1614241051209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614241051209" />
+  </component>
+</project>
