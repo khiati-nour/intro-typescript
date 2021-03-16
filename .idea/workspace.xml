@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/example-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -45,6 +45,7 @@
       <workItem from="1614008076861" duration="13078000" />
       <workItem from="1614163367460" duration="376000" />
       <workItem from="1614173412469" duration="2422000" />
+      <workItem from="1615899563476" duration="365000" />
     </task>
     <servers />
   </component>
